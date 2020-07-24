@@ -6,9 +6,9 @@ os.system('clear')
 time.sleep(1)
 os.system('figlet Hack FB')
 print "======================================"
-print " Author : Sanz"
-print " Youtube: SANZ SOEKAMTI"
-print " Github : https://github.com/B4N954N2-ID"
+print " Author   : Ryan"
+print " Instagram: Rraynn.z"
+print " Github   : https://github.com/Duitku10"
 print "======================================"
 print
 time.sleep(1)
